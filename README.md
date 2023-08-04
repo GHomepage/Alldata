@@ -47,7 +47,8 @@ Composed of two folders (Mandarin Pronunciation and Mandarin Words), which conta
 # DuerOS Transcription Results
 We use DuerOS black box transcription service to test the speech recognition ability of Baidu VPA. We show all the transcription results of the two audio sets after testing, and each folder contains three files: transcriptional correct data, incorrect data, and unrecognized (no transcription results returned) data.
 
-# Compare
+# Comparison
+
 In order to find out whether the system misunderstandings in DuSmart Speaker also exist in other Chinese VPAs, we choose another three popular device "Xiaomi AI Speaker", "Alibaba TmallGenie" and "HUAWEI Celia" for comparative verification. The following table shows the recognition results, the number represents the percentage that make the same mistake as DuerOS.
 
 <table>
