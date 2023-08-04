@@ -1,5 +1,5 @@
-# Mandarin-based-Speech-Misunderstanding-Leads-to-Skill-Transfer-on-Chinese-VPA-all-experimental-data
-All the experimental data and results in the paper "Mandarin-based Speech Misunderstanding Leads to Skill Transfer on Chinese VPA" are shown in this project, including the Chinese Mandarin test audio for speech recognition, transcription test results, Baidu DuSmart Speaker skill data, etc.
+# Exploring-Skill-Transfer-of-Mandarin-based-Speech-Misunderstanding-on-Chinese-VPA-data
+All the experimental data and results in the paper "Exploring Skill Transfer of Mandarin-based Speech Misunderstanding on Chinese VPA" are shown in this project, including the Chinese Mandarin test audio for speech recognition, transcription test results, Baidu DuSmart Speaker skill data, etc.
 # Mandarin Test Audio
 Composed of two folders (Mandarin Pronunciation and Mandarin Words), which contain 1,088 pronunciations and 13,863 words respectively, to test the speech recognition rate of Chinese VPA and the ability to understand the meaning of commonly used words. The following table shows their constituent information.
 <table>
